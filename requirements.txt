@@ -1,0 +1,6 @@
+tqdm
+seaborn
+root_numpy
+pandas
+numpy
+matplotlib
